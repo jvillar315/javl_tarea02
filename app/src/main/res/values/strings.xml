@@ -1,0 +1,46 @@
+<resources>
+    <!-- Textos generales -->
+    <string name="app_name">Super Mario Bros Characters</string>
+    <string name="welcome_message">Bienvenidos al mundo de Mario</string>
+    <string name="character_selected">Se ha seleccionado el personaje %1$s</string>
+    <string name="about_dialog_title">Acerca de...</string>
+    <string name="about_dialog_message">Aplicación desarrollada por JAVL. Versión 1.0</string>
+    <string name="character_image">Imagen del  personaje</string>
+    <!-- Cadenas de los personajes -->
+    <string name="mario_description">Héroe del Reino Champiñón</string>
+    <string name="luigi_description">Hermano de Mario</string>
+    <string name="peach_description">Princesa del Reino Champiñón</string>
+    <string name="bowser_description">Rey de los Koopas</string>
+
+    <string name="mario_name">Mario</string>
+    <string name="home">Inicio</string>
+
+    <string name="settings">Ajustes</string>
+    <string name="open_drawer">Abrir navegador</string>
+
+    <string name="close_drawer">Cerrar navegador</string>
+    <string name="language">Idioma</string>
+    <string name="language_changed">Idioma cambiado</string>
+
+
+    <string name="select_language">Selecciona idioma</string>
+    <string name="language_switch">Traduccion</string>
+    <string name="language_switch_title">Menu idioma</string>
+    <string name="english">Ingles</string>
+    <string name="spanish">Español</string>
+    <string name="enable_notifications">Activar notificaciones</string>
+
+    <string name="mario_abilities">Salta alto, lanza bolas de fuego.</string>
+
+    <string name="luigi_name">Luigi</string>
+
+    <string name="luigi_abilities">Salta más alto que Mario, es valiente.</string>
+
+    <string name="peach_name">Peach</string>
+
+    <string name="peach_abilities">Puede flotar, experta en estrategia.</string>
+
+    <string name="bowser_name">Bowser</string>
+
+    <string name="bowser_abilities">Fuerza bruta, lanza bolas de fuego.</string>
+</resources>

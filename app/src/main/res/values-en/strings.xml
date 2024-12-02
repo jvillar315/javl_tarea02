@@ -1,0 +1,47 @@
+<resources>
+    <!-- General Texts -->
+    <string name="app_name">Super Mario Bros Characters</string>
+    <string name="welcome_message">Welcome to the world of Mario</string>
+    <string name="character_selected">You selected the character %1$s</string>
+    <string name="about_dialog_title">About...</string>
+    <string name="about_dialog_message">App developed by JAVL. Version 1.0</string>
+    <string name="character_image" translatable="false">Character Image</string>
+    <!-- Character descriptions -->
+    <string name="mario_description">Hero of the Mushroom Kingdom</string>
+    <string name="luigi_description">Brother  of  Mario</string>
+    <string name="peach_description">Princess of the Mushroom Kingdom</string>
+    <string name="bowser_description">King of the Koopas</string>
+
+    <string name="mario_name">Mario</string>
+
+    <string name="mario_abilities">Jumps high, throws fireballs.</string>
+
+    <string name="luigi_name">Luigi</string>
+
+    <string name="luigi_abilities">Jumps higher than Mario, courageous.</string>
+
+    <string name="peach_name">Peach</string>
+
+    <string name="peach_abilities">Can float, expert strategist.</string>
+
+    <string name="bowser_name">Bowser</string>
+    <string name="home">Home</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="language">Language</string>
+
+    <string name="language_switch_title">Switch language</string>
+    <string name="bowser_abilities">Brute strength, throws fireballs.</string>
+
+    <string name="open_drawer">Open navigation bar</string>
+
+    <string name="close_drawer">Close navigation bar</string>
+
+    <string name="language_changed">Language changed</string>
+    <string name="select_language">Select  Language</string>
+    <string name="language_switch">Traduction</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+</resources>
