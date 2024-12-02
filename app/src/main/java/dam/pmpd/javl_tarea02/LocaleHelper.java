@@ -12,7 +12,7 @@ import java.util.Locale;
  * <p>Esta clase proporciona un método estático para cambiar el idioma del contexto de la aplicación.
  * Modifica la configuración de {@link Resources} para aplicar un idioma específico.</p>
  *
- * @autor jvillar315
+ * @author jvillar315
  */
 public class LocaleHelper {
 

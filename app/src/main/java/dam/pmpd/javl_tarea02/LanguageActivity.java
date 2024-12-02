@@ -16,7 +16,7 @@ import dam.pmpd.javl_tarea02.databinding.ActivityLanguageBinding;
  * (Switch). El idioma seleccionado se guarda en SharedPreferences y se aplica utilizando
  * {@link LocaleHelper}.</p>
  *
- * @autor jvillar315
+ * @author jvillar
  */
 public class LanguageActivity extends AppCompatActivity {
 

@@ -18,7 +18,7 @@ import dam.pmpd.javl_tarea02.databinding.FragmentDetailsBinding;
  * descripción y habilidades de un personaje específico. Recibe los datos a través de argumentos
  * que se configuran mediante el método {@link #newInstance}.</p>
  *
- * @autor jvillar315
+ * @author jvillar315
  */
 public class DetailsFragment extends Fragment {
     private FragmentDetailsBinding binding;

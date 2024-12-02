@@ -13,7 +13,7 @@ import dam.pmpd.javl_tarea02.databinding.ActivitySettingsBinding;
  * <p>Esta actividad permite al usuario gestionar las preferencias de la aplicación,
  * como la habilitación de notificaciones u otras configuraciones similares.</p>
  *
- * @autor jvillar315
+ * @author jvillar315
  */
 public class SettingsActivity extends AppCompatActivity {
     // Binding para acceder a los elementos de la interfaz gráfica

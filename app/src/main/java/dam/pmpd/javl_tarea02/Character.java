@@ -6,7 +6,7 @@ package dam.pmpd.javl_tarea02;
  * <p>Esta clase se utiliza para encapsular la información relacionada con un personaje,
  * como su nombre, un recurso de imagen asociado, su descripción y sus habilidades.</p>
  *
- * @autor jvillar315
+ * @author jvillar315
  */
 public class Character {
 

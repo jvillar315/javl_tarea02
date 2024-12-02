@@ -10,7 +10,6 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
@@ -28,7 +27,7 @@ import dam.pmpd.javl_tarea02.databinding.ActivityMainBinding;
  * <p>Esta actividad inicializa la interfaz de usuario principal de la aplicación, configura
  * el menú de navegación, el RecyclerView y maneja las preferencias de idioma.</p>
  *
- * @autor jvillar315
+ * @author jvillar315
  */
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
